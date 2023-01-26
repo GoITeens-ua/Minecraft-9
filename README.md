@@ -48,7 +48,7 @@ layout: landing
 | ----------------- | --------------------------- | ----------------------------------------- |
 | Внутрішній блок 2 | ![](.gitbook/assets/45.png) | ![](<.gitbook/assets/labirint05 (1).png>) |
 | Внутрішній блок 3 | ![](.gitbook/assets/46.png) | ![](.gitbook/assets/labirint06.png)       |
-| Внутрішній блок 4 |                             | ![](.gitbook/assets/labirint07.png)       |
+| Внутрішній блок 4 | ![](.gitbook/assets/47.png) | ![](.gitbook/assets/labirint07.png)       |
 
 ## Творчі завдання
 
