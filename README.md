@@ -44,11 +44,11 @@ layout: landing
 
 ### Основні коридори лабіринту
 
-| Внутрішній блок 1 | ![](.gitbook/assets/44.png) | ![](.gitbook/assets/labirint04.png)       |
-| ----------------- | --------------------------- | ----------------------------------------- |
-| Внутрішній блок 2 | ![](.gitbook/assets/45.png) | ![](<.gitbook/assets/labirint05 (1).png>) |
-| Внутрішній блок 3 | ![](.gitbook/assets/46.png) | ![](.gitbook/assets/labirint06.png)       |
-| Внутрішній блок 4 | ![](.gitbook/assets/47.png) | ![](.gitbook/assets/labirint07.png)       |
+| Внутрішній блок 1 | ![](.gitbook/assets/44.png)       | ![](.gitbook/assets/labirint04.png)       |
+| ----------------- | --------------------------------- | ----------------------------------------- |
+| Внутрішній блок 2 | ![](<.gitbook/assets/45 (1).png>) | ![](<.gitbook/assets/labirint05 (1).png>) |
+| Внутрішній блок 3 | ![](.gitbook/assets/46.png)       | ![](.gitbook/assets/labirint06.png)       |
+| Внутрішній блок 4 | ![](<.gitbook/assets/47 (1).png>) | ![](.gitbook/assets/labirint07.png)       |
 
 ## Творчі завдання
 
@@ -70,11 +70,11 @@ layout: landing
 
 Реалізуємо цю карту за допомогою коду: створимо проходи між рівнями та загородження.
 
-| Прохід у 1-му контурі (внутрішньому) | ![](<.gitbook/assets/image (103).png>) | ![](<.gitbook/assets/image (115).png>) |
-| ------------------------------------ | -------------------------------------- | -------------------------------------- |
-| Прохід у 2-му контурі                | ![](<.gitbook/assets/image (102).png>) | ![](<.gitbook/assets/image (123).png>) |
-| Прохід у 3-му контурі                | ![](<.gitbook/assets/image (135).png>) | ![](<.gitbook/assets/image (127).png>) |
-| Прохід у 4-му контурі (зовнішньому)  | ![](<.gitbook/assets/image (144).png>) | ![](<.gitbook/assets/image (101).png>) |
+| Прохід у 1-му контурі (внутрішньому) | ![](<.gitbook/assets/48 (1).png>) | ![](<.gitbook/assets/image (115).png>) |
+| ------------------------------------ | --------------------------------- | -------------------------------------- |
+| Прохід у 2-му контурі                | ![](.gitbook/assets/49.png)       | ![](<.gitbook/assets/image (123).png>) |
+| Прохід у 3-му контурі                | ![](.gitbook/assets/50.png)       | ![](<.gitbook/assets/image (127).png>) |
+| Прохід у 4-му контурі (зовнішньому)  | ![](.gitbook/assets/51.png)       | ![](<.gitbook/assets/image (101).png>) |
 
 ## Творчі завдання
 
@@ -87,11 +87,11 @@ layout: landing
 
 
 
-| Загородження у 1-му контурі (внутрішньому) | ![](<.gitbook/assets/image (139).png>) | ![](<.gitbook/assets/image (91).png>)  |
-| ------------------------------------------ | -------------------------------------- | -------------------------------------- |
-| Загородження у 2-му контурі                | ![](<.gitbook/assets/image (128).png>) | ![](<.gitbook/assets/image (113).png>) |
-| Загородження у 3-му контурі                | ![](<.gitbook/assets/image (92).png>)  | ![](<.gitbook/assets/image (94).png>)  |
-| Загородження у 4-му контурі (зовнішньому)  | ![](<.gitbook/assets/image (105).png>) |                                        |
+| Загородження у 1-му контурі (внутрішньому) | ![](.gitbook/assets/52.png) | ![](<.gitbook/assets/image (91).png>)  |
+| ------------------------------------------ | --------------------------- | -------------------------------------- |
+| Загородження у 2-му контурі                | ![](.gitbook/assets/53.png) | ![](<.gitbook/assets/image (113).png>) |
+| Загородження у 3-му контурі                | ![](.gitbook/assets/54.png) | ![](<.gitbook/assets/image (94).png>)  |
+| Загородження у 4-му контурі (зовнішньому)  | ![](.gitbook/assets/55.png) |                                        |
 
 ## Використання циклів
 
@@ -101,17 +101,24 @@ layout: landing
 
 Замість цих
 
-![](<.gitbook/assets/labirint2 (1).png>)![](.gitbook/assets/labirint4.png)![](<.gitbook/assets/labirint6 (1).png>)![](.gitbook/assets/labirint8.png)
+|                                   |                             |
+| --------------------------------- | --------------------------- |
+| ![](<.gitbook/assets/44 (1).png>) | ![](.gitbook/assets/45.png) |
+| ![](<.gitbook/assets/46 (1).png>) | ![](.gitbook/assets/47.png) |
 
 Зробимо цикл
 
-![](<.gitbook/assets/image (114).png>)![](<.gitbook/assets/image (125).png>)
+|                             |                                        |
+| --------------------------- | -------------------------------------- |
+| ![](.gitbook/assets/56.png) | ![](<.gitbook/assets/image (125).png>) |
 
 ## Додаткове завдання
 
 Окрім того, що ми використвуємо цикли, ми можемо в залежності від номеру проходу циклу (значення змінної **index**) змінювати матеріал, з якого робимо відповідні елементи.
 
-![](<.gitbook/assets/image (99).png>)![](<.gitbook/assets/image (116).png>)
+|                                                                                               |                                        |
+| --------------------------------------------------------------------------------------------- | -------------------------------------- |
+| <p><img src=".gitbook/assets/57.png" alt=""><br><img src=".gitbook/assets/58.png" alt=""></p> | ![](<.gitbook/assets/image (116).png>) |
 
 ## Творче завдання
 
@@ -129,13 +136,13 @@ layout: landing
 
 Додайте відповідний блок команд для створення проходу в Майнкрафті:
 
-![](<.gitbook/assets/image (119).png>)
+![](.gitbook/assets/59.png)
 
 ![](<.gitbook/assets/image (107).png>)![](<.gitbook/assets/image (88).png>)
 
 Додайте відповідний блок команд для створення проходу в Майнкрафті:
 
-![](<.gitbook/assets/image (75).png>)
+![](.gitbook/assets/60.png)
 
 1. Сформуйте план лабіринту та створіть Лабіринт з **2-х контурів.**
 2. Сформуйте план лабіринту та створіть Лабіринт з **4-х контурів**.
